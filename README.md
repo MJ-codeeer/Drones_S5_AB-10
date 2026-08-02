@@ -1,5 +1,21 @@
 # Drones---Trajectory-Tracking-for-a-Multicopter-under-a-Quaternion-Representation
 
+
+<p align="center">
+  <img src="C:\Users\HP\Downloads\Amrita Logo.jpeg" alt="Amrita Vishwa Vidyapeetham" width="350"/>
+</p>
+
+<h1 align="center">
+Quaternion-Based Trajectory Tracking for a Quadcopter
+</h1>
+
+<p align="center">
+Academic Project <br>
+Department of Artificial Intelligence <br>
+Amrita Vishwa Vidyapeetham
+</p>
+
+
 ## Overview
 
 This project implements a quaternion-based trajectory tracking controller for a quadcopter UAV. The objective is to enable a drone to accurately follow predefined three-dimensional trajectories while maintaining stable orientation using quaternion mathematics.
