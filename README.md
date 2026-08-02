@@ -1,20 +1,6 @@
+
+
 # Drones---Trajectory-Tracking-for-a-Multicopter-under-a-Quaternion-Representation
-
-
-<p align="center">
-  <img src="C:\Users\HP\Downloads\Amrita Logo.jpeg" width="350"/>
-</p>
-
-<h1 align="center">
-Quaternion-Based Trajectory Tracking for a Quadcopter
-</h1>
-
-<p align="center">
-Academic Project <br>
-Department of Artificial Intelligence <br>
-Amrita Vishwa Vidyapeetham
-</p>
-
 
 ## Overview
 
