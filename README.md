@@ -99,3 +99,11 @@ Flat Output
 ## Control Architecture
 
 The controller is implemented using a hierarchical two-layer architecture.
+
+##Contributors
+
+M.Vishnu Teja 
+M.Jayesh
+K.Siva Aditya
+N.Srinivas
+M.V.Mukesh
