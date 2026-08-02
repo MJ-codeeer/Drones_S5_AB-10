@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="C:\Users\HP\Downloads\Amrita Logo.jpeg" alt="Amrita Vishwa Vidyapeetham" width="350"/>
+  <img src="C:\Users\HP\Downloads\Amrita Logo.jpeg" width="350"/>
 </p>
 
 <h1 align="center">
